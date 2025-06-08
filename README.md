@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1f5a4&layout=compact&theme=neon&show_icons=true&cache_seconds=1800)](https://github-readme-stats.vercel.app/api/top-langs/?username=1f5a4&layout=compact&theme=neon&show_icons=true&cache_seconds=1800)
 
 <!--
 **1f5a4/1f5a4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
